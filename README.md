@@ -51,6 +51,11 @@ From command line in Terminal
 
 
 ```
+==> cd src
+```
+
+
+```
 ==> python manage.py migrate
 ```
 
